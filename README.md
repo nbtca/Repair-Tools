@@ -2,7 +2,7 @@
 
 维护计算机协会镜像站清单
 
-[内网访问](i.nbtca.space)
+[内网访问](https://i.nbtca.space/)
 
 ## 常用软件
 
