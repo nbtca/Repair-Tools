@@ -11,6 +11,9 @@
 ### xxx
 
 ## 系统镜像
+-Windows 10 22H2
+-Windows 11 23H2
+-Windows 11 24H2
 
 ### xxx
 
