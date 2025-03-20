@@ -6,7 +6,7 @@
 
 ## 常用软件
 
-### test 
+### [主网站](https://i.nbtca.space/)
 
 
 ### xxx
